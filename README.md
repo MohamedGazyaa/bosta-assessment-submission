@@ -6,7 +6,7 @@ A fully-featured e-commerce web application built with React, Redux Toolkit, and
 
 ## Live Demo
 
-> [Deploy and add your URL here.](https://bosta-assessment-submission.vercel.app/products)
+> (https://bosta-assessment-submission.vercel.app/products)
 
 ---
 
