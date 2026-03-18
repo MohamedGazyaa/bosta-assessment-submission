@@ -44,7 +44,7 @@ A fully-featured e-commerce web application built with React, Redux Toolkit, and
 ### Installation
 
 ```bash
-git clone [https://github.com/your-username/bosta-submission.git](https://github.com/MohamedGazyaa/bosta-assessment-submission.git)
+git clone https://github.com/MohamedGazyaa/bosta-assessment-submission.git
 cd bosta-submission
 npm install
 ```
