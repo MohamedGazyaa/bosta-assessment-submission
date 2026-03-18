@@ -6,7 +6,7 @@ A fully-featured e-commerce web application built with React, Redux Toolkit, and
 
 ## Live Demo
 
-> Deploy and add your URL here.
+> [Deploy and add your URL here.](https://bosta-assessment-submission.vercel.app/products)
 
 ---
 
@@ -44,7 +44,7 @@ A fully-featured e-commerce web application built with React, Redux Toolkit, and
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/bosta-submission.git
+git clone [https://github.com/your-username/bosta-submission.git](https://github.com/MohamedGazyaa/bosta-assessment-submission.git)
 cd bosta-submission
 npm install
 ```
